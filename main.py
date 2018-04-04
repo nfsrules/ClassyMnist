@@ -22,7 +22,7 @@ y_train = np_utils.to_categorical(y_train, 10)
 y_test = np_utils.to_categorical(y_test, 10)
 
 
-# Import ConvNet architecture from custom classes
+# Import ConvNets architecture from a custom Class
 model = architecture.ConvNets()
 
 # Calling .train() method from ConvNets class
