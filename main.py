@@ -3,7 +3,6 @@ from keras.datasets import mnist
 import functions
 import architecture
 from keras.utils import np_utils
-import arc_iron
 
 
 # Import Mnist digits data set from Keras
