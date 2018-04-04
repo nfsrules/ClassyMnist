@@ -1,2 +1,2 @@
 # ClassyMnist
-Implementation of the classical MNIST problem with Class objets
+Implementation of the classical MNIST problem with Python Class objects.
